@@ -1,2 +1,5 @@
-ijson-2.3
+ijson
+pandas==0.19.0
+jupyter==1.0.0
+scikit-learn==0.18.1
 
